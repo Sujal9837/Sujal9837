@@ -65,14 +65,14 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [E-Commerce Platform](https://github.com/Sujal9837/ecommerce-platform)
+### 🛒 [E-Commerce Platform](https://github.com/Sujal9837/Ecommerce_APP.git)
 Full-stack e-commerce app with product listing, cart, order management, JWT auth, role-based access, and Razorpay payment gateway integration.
 
 `Spring Boot` `React` `MySQL` `Spring Security` `Razorpay` `REST API`
 
 ---
 
-### ✅ [Task Management System](https://github.com/Sujal9837/task-management)
+### ✅ [Task Management System](https://github.com/Sujal9837/TaskManager_APP.git)
 Full-stack task management app with task assignment, priority tracking, real-time status updates, and email notifications via JavaMail.
 
 `Spring Boot` `React` `MySQL` `Spring Security` `JavaMail` `REST API`
