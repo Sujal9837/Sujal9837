@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently building an **E-Commerce Platform** with Spring Boot + React + Razorpay
+- 🔭 Currently working on Kafka Event Streaming & Microservices projects with Spring Boot
 - 🏢 Ex-Intern @ **Kodnest Technologies** — worked on full-stack Java web apps
 - ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)
 - 💻 Solved **300+ DSA problems** on LeetCode
